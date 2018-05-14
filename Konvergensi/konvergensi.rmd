@@ -68,7 +68,7 @@ knitr::include_graphics("Gambar4.png")
 
 # Lampiran
 
-*Source Code* dapat di akses melalui situs GitHub di https://github.com/rexevan/EkLan/Konvergensi.
+*Source Code* dapat di akses melalui situs GitHub di https://github.com/rexevan/EkLan/tree/master/Konvergensi
 
 ```{R table, echo = FALSE}
 library(knitr)
